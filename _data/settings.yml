@@ -1,6 +1,6 @@
 audit_header: false
-title:
-description: -- CLIENT NAME --, a top Real Estate Agent in -- MARKET --, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
+title: Fort Wayne's Best Real Estate Training
+description: David Brough, a top Real Estate Agent in Fort Wayne, shares his/her own internal real estate agent training for free. His/Her Real Estate Training, Tips and Advice will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
@@ -14,21 +14,21 @@ custom_links:
 
 
 client:
-  name:
+  name: David Brough
   title:
   license_number:
   about_markdown: |
-
-  market:
-  brand:
+    The entrepreneurial spirit is deeply-rooted in my family. My father was a small business owner, and I'm the youngest of 5 brothers and sisters. I suppose you could say all of us have the same ‘fire’ for starting something great, and creating a business from the ground up, as we’re all self-employed in some way. My passion? Real estate. It’s been that way since I was young, and it’s something I’ve carried with me my entire life. Thankfully, I’ve been able to live out that passion for the past 10 years as a Realtor and home renovator, watching the market completely shift, seeing buying trends change, and even working through the “Great Recession.” I started Anthony REALTORS out of my basement in 2012 and today we are a team of high quality individuals operating out of the Historic Baker Street Station in downtown Fort Wayne.
+  market: Fort Wayne
+  brand: Anthony REALTORS
   brokerage:
-  address:
-  phone:
+  address: 239 West Baker Street<br>Fort Wayne, IN 46802
+  phone: 260-747-4400
   phone_type:
   phone2:
   phone2_type:
-  email:
-  url:
+  email: david@anthonyrealtors.com
+  url: http://www.davidbrough.com
 
 lender:
   show_section: false
@@ -44,14 +44,14 @@ lender:
 
 socials:
   review_sm_icons: false
-  facebook_url:
-  linkedin_url:
+  facebook_url: https://www.facebook.com/davidbroughrealtor
+  linkedin_url: https://www.linkedin.com/in/david-brough-a9770654/
   gplus_url:
   youtube_url:
-  twitter_url:
-  instagram_url:
+  twitter_url: https://twitter.com/davidbrough
+  instagram_url: https://www.instagram.com/anthonyrealtors/
   pinterest_url:
-  zillow_url:
+  zillow_url: https://www.zillow.com/profile/DaveBrough/
   trulia_url:
   yelp_url:
   podcast_url:
@@ -74,8 +74,8 @@ images:
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
-  brand_color: '#b40101'
-  theme_color: '#999'
+  brand_color: '#89c251'
+  theme_color: '#515151'
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
