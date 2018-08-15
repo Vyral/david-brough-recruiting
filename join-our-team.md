@@ -33,45 +33,48 @@ permalink: /join-our-team/
 
 <p>Our team is completely unique in what we offer those who join us. When you become a part of our team, you aren’t just another nameless agent—like how it might feel when you’re working for a big-box company. <strong>We pride ourselves on our culture, structure, systems, and tools, because these are the things that allow our agents to strive toward their personal and professional goals with confidence.</strong></p>
 
-<p>Our team members never have to wake up feeling uncertain about what they need to do next to stay successful. I make sure of this, because I act as a personal mentor to our new team members. For the right person, the training, mentorship, and resources I can offer will lead to the career (and the income) you have always wanted.</p>
+<p>Our team members never have to wake up feeling uncertain about what they need to do next to stay successful. I make sure of this, because I act as a personal mentor to our team members. For the right person, the training, mentorship, leads, and resources I can offer will lead to the career (and the income) you have always wanted.</p>
 
 <p>In fact, <strong>I guarantee that agents who follow our team’s blueprint for success will earn $60,000 in their first year with us.</strong> I believe so strongly in this that if you stick to our systems and don’t achieve that amount, I will make up the difference myself. But you must be ready to embrace our guidance.</p>
 
-<p>No other team in the area has the lead generation and follow-up systems we do, and this makes it easy for our agents to succeed—if they’ve got the drive to do so. Nearly every aspect of the way we operate is unique from what you’ll find at other brokerages. Our custom website, for example, is so high-quality that other area agents direct their own clients to it.</p>
+<p>No other team in the area has the lead generation and follow-up systems we do, and this makes it easy for our agents to succeed—if they’ve got the drive to do so. Nearly every aspect of the way we operate is unique from what you’ll find at other brokerages. Our custom property search website, for example, is so nice that other area agents direct their own clients to it.</p>
 
 <p><strong>Anthony REALTORS has so many resources to offer those who are willing to use them, including things like:</strong>
 <ul class="indent">
 <li>Mentoring and coaching</li>
-<li>Abundant leads</li>
-<li>Unique follow-up systems</li>
+<li>30-40 leads per agent per month</li>
+<li>Unique follow-up systems and CRM</li>
 <li>Accountability</li>
 <li>An outline for success</li>
 <li>Consistent income</li>
 <li>Opportunities for personal and career growth</li>
+<li>Full-time staff</li>
+<li>Mojo - automated dialer system</li>
+<li>Courier service</li>
+<li>Just listed/just sold postcards</li>
 <li>And much more</li>
-</ul>
-</p>
+</ul></p>
 
-<p>But don’t just take my word for it. Let me tell you the success story of someone who was once in your same position. Last year, an agent who was seeing moderate success but lacked direction at his previous brokerage came to join our team. <strong>Within his first full year, he’s become our top producer, selling $60 million in real estate and earning about $135,000 for himself.</strong> This was all achieved by leveraging the same systems and instructions we offer every agent who joins us.</p>
+<p>But don’t just take my word for it. Let me tell you the success story of someone who was once in your same position. Last year, an agent who was seeing moderate success but lacked direction at his previous job came to join our team full time. Within his first full year, he’s become a high producer, on track to sell $6 million in real estate and earning about $135,000 for himself. This was all achieved by leveraging the same systems and instructions we offer every agent who joins us.</p>
 
-<p>Here’s how we’ll get you started. After you respond to this message, we’ll have a conversation on the phone. I’ll then invite you to a training workshop, where we’ll discuss your your one-, three-, and five-year goals. We’ll get to the bottom of what you want in life. If that turns out to be a career with us (and you’re a good fit), our 30-day onboarding process will begin right away.</p>
+<p>Here’s how we’ll get you started. After you respond to this message, we’ll have a conversation on the phone. I’ll then invite you to a training workshop, where we’ll discuss your one-, three-, and five-year goals. We’ll get to the bottom of what you want in life. If that turns out to be a career with us (and you’re a good fit), our 30-day on-boarding process will begin right away.</p>
 
 <p>During that process, you’ll make calls, go on appointments, shadow me, and generally get the feel for working with our clients.</p>
 
-<p><strong>So if you’re ready to seize success, I invite you to come work on my team.</strong> You’ll earn a 50/50 commission split and have access to a great office space, my personal support, our top quality systems, and (most importantly) a defined path toward success.</p>
+<p><strong>So if you’re ready to seize success, I invite you to come work on my team.</strong> You’ll earn a 50/50 commission split from business that I give to you plus have access to leads, a great office space, my personal support, our top quality systems, and (most importantly) a defined path toward success.</p>
 
 <hr>
 
 <div class="indent">
 <h5><strong>Frequently Asked Questions:</strong></h5>
 
-<p class="question">Are there any other fees on top of the commission split?</p>
+<p class="question">Are there any other fees on top of the commission split? </p>
 
-<p class="answer">No, there are no hidden fees. We don’t charge any desk fees or  loyalty fees, as we are not associated to any larger brokerage.</p>
+<p class="answer">No, there are no hidden fees. We don’t charge any desk fees or royalty fees (typically 6% right off the top), as we are not associated with a franchise brokerage.</p>
 
 <p class="question">Is there a cap?</p>
 
-<p class="answer">No. Agents on our team work at a 50/50 commission rate and have the freedom to pursue success without worrying about a cap.</p>
+<p class="answer">No. Agents on our team have a performance based commission structure and have the freedom to pursue success without worrying about a cap.</p>
 
 <p class="question">Will I have a desk?</p>
 
@@ -83,6 +86,7 @@ permalink: /join-our-team/
 <p>We take agents and turn them into business professionals. We’re offering you success, very competitive compensation, and the ability to have a great balance between your life and your work. When you apply with us, you are taking advantage of the opportunity to truly fulfill your potential.</p>
 
 <p>I’m looking forward to talking to you soon!</p>
+
 
 
 <p>{{site.data.settings.client.name}}<br>
