@@ -9,7 +9,8 @@ custom_links:
     url: /strategy-call
   - title: Free Newsletter
     url: /subscribe/
-
+  - title: Events
+    url: https://www.eventbrite.com/e/fort-wayne-real-estate-agent-business-planning-clinic-tickets-50709669988
 
 client:
   name: David Brough
