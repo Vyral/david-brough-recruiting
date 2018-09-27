@@ -34,7 +34,7 @@ permalink: /strategy-call/
 
 <p>This will help you get the commission consistency and the freedom we all want from our business.</p>
 
-<p>But don’t just take my word for it. Let me tell you the success story of someone who was once in your same position. Last year, an agent who was seeing moderate success but lacked direction at his previous job came to join our team full time. Within his first full year, he’s become a high producer, on track to sell $6 million in real estate and earning about $135,000 for himself. This was all achieved by leveraging the same systems and instructions we offer every agent who joins us. </p>
+<p>But don’t just take my word for it. Let me tell you the success story of someone who was once in your same position. Last year, an agent who was seeing moderate success but lacked direction at his previous job came to join our team full time. Within his first full year, he’s become a high producer, on track to sell $7 million in real estate and earning about $160,000 for himself. This was all achieved by leveraging the same systems and instructions we offer every agent who joins us. </p>
 
 <p>You don’t need to pay a bunch of money to a real estate coach.</p>
 
