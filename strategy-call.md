@@ -20,7 +20,7 @@ permalink: /strategy-call/
 
 <p>It can get overwhelming to stick to a consistent business plan that makes you money.</p>
 
-<p>My name is David Brough with Anthony Realtors and we’ve sold over 100 homes to date. </p>
+<p>My name is David Brough with Anthony REALTORS and we’ve sold over 100 homes to date. </p>
 
 <p>I want to help you sell more homes.</p>
 
