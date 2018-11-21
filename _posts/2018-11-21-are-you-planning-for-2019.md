@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Are You Planning for 2019?
-date: 2018-11-21 20:36:49
+date: 2018-11-21 20:36:00
 tags:
   - Buyer Prospects
 excerpt: >-
@@ -13,7 +13,7 @@ pullquote:
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image:
+youtube_alternate_image: /uploads/plan-for-2019-youtube.jpg
 youtube_code: JhPdu0HJ1F8
 ---
 
