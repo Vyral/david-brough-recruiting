@@ -2812,6 +2812,9 @@ form select {
   width: 70%;
   margin-left: 15%; }
 
+.theme {
+  color: #515151; }
+
 .e2ma_signup_form_label {
   color: #555 !important;
   Text-align: center; }
