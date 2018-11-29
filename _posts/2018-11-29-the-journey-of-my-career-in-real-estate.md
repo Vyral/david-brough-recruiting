@@ -1,7 +1,7 @@
 ---
 layout: post
-title: My Journey as a Real Estate Professional
-date: 2018-11-29 19:43:02
+title: The Journey of My Career in Real Estate
+date: 2018-11-29 19:43:00
 tags:
 excerpt: >-
   Though I’d never considered a career in real estate, the pieces came together
