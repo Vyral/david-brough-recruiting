@@ -55,7 +55,7 @@ permalink: /join-our-team/
 <li>And much more</li>
 </ul></p>
 
-<p>But don’t just take my word for it. Let me tell you the success story of someone who was once in your same position. Last year, an agent who was seeing moderate success but lacked direction at his previous job came to join our team full time. Within his first full year, he’s become a high producer, on track to sell $6 million in real estate and earning about $135,000 for himself. This was all achieved by leveraging the same systems and instructions we offer every agent who joins us.</p>
+<p>But don’t just take my word for it. Let me tell you the success story of someone who was once in your same position. Last year, an agent who was seeing moderate success but lacked direction at his previous job came to join our team full time. In his first full year, he became a high producer, selling $6.5 million in real estate and earning about $160,000 for himself. This was all achieved by leveraging the same systems and instructions we offer every agent who joins us.</p>
 
 <p>Here’s how we’ll get you started. After you respond to this message, we’ll have a conversation on the phone. I’ll then invite you to a training workshop, where we’ll discuss your one-, three-, and five-year goals. We’ll get to the bottom of what you want in life. If that turns out to be a career with us (and you’re a good fit), our 30-day on-boarding process will begin right away.</p>
 
