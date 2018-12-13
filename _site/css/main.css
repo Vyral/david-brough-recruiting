@@ -1710,6 +1710,9 @@ h6 {
   max-width: 120rem;
   margin: 0 auto; }
 
+p {
+  font-size: 18px; }
+
 a {
   color: #89c251;
   text-decoration: none; }
@@ -2418,6 +2421,12 @@ table tr, table td {
 .attribution {
   text-align: center; }
 
+.privacy {
+  margin-top: -2rem; }
+  .privacy a {
+    text-decoration: underline;
+    font-size: 16px; }
+
 .vyral-logo {
   fill: #89c251;
   display: inline;
@@ -2662,6 +2671,9 @@ form select {
 
 .newsletter {
   background: #494949; }
+
+.privacy-page {
+  padding-top: 8rem; }
 
 #side-logo {
   width: 90%;
