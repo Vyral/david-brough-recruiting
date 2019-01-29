@@ -21,7 +21,7 @@ youtube_code: 6PcUOH9f10w
 
 If you need help making your goals a reality in 2019, **I highly recommend making a dream board for yourself.**
 
-A dream board is a compilation of images that represent both the goals you want to achieve and the process of achieving them. The idea is to place the board in a spot where you’ll see it often, so that you will always be reminded of these goals and your mind will develop a laser-like focus for them.
+A dream board is a compilation of images that represent both the goals you want to achieve and the process of achieving them. The idea is to place the board in a spot where you’ll see it often so that you will always be reminded of these goals and your mind will develop a laser-like focus for them.
 
 **Essentially, a dream board allows you to visualize your goals and create an emotional connection to them.** Humans are visual creatures, after all. We respond to visual cues better than anything else.
 
