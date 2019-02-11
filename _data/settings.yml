@@ -1,6 +1,9 @@
 audit_header: false
 title: Fort Wayne's Best Real Estate Training
-description: David Brough, a top Real Estate Agent in Fort Wayne, shares his own internal real estate agent training for free. His Real Estate Training, Tips and Advice will help you sell more homes in less time.
+description: >-
+  David Brough, a top Real Estate Agent in Fort Wayne, shares his own internal
+  real estate agent training for free. His Real Estate Training, Tips and Advice
+  will help you sell more homes in less time.
 show_custom_links: true
 custom_links:
   - title: Join Our Team
@@ -10,66 +13,84 @@ custom_links:
   - title: Free Newsletter
     url: /subscribe/
   - title: Events
-    url: https://www.eventbrite.com/o/anthony-realtors-17737743094
-
+    url: 'https://www.eventbrite.com/o/anthony-realtors-17737743094'
 client:
   name: David Brough
   title:
   license_number:
-  about_markdown: |
-    The entrepreneurial spirit is deeply-rooted in my family. My father was a small business owner, and I'm the youngest of 5 brothers and sisters. I suppose you could say all of us have the same ‘fire’ for starting something great, and creating a business from the ground up, as we’re all self-employed in some way. My passion? Real estate. It’s been that way since I was young, and it’s something I’ve carried with me my entire life. Thankfully, I’ve been able to live out that passion for the past 10 years as a Realtor and home renovator, watching the market completely shift, seeing buying trends change, and even working through the “Great Recession.” I started Anthony REALTORS out of my basement in 2012 and today we are a team of high quality individuals operating out of the Historic Baker Street Station in downtown Fort Wayne.
+  about_markdown: >-
+    The entrepreneurial spirit is deeply-rooted in my family. My father was a
+    small business owner, and I'm the youngest of 5 brothers and sisters. I
+    suppose you could say all of us have the same ‘fire’ for starting something
+    great, and creating a business from the ground up, as we’re all
+    self-employed in some way. My passion? Real estate. It’s been that way since
+    I was young, and it’s something I’ve carried with me my entire life.
+    Thankfully, I’ve been able to live out that passion for the past 10 years as
+    a Realtor and home renovator, watching the market completely shift, seeing
+    buying trends change, and even working through the “Great Recession.” I
+    started Anthony REALTORS out of my basement in 2012 and today we are a team
+    of high quality individuals operating out of the Historic Baker Street
+    Station in downtown Fort Wayne.
   market: Fort Wayne
   brand: Anthony REALTORS
   brokerage:
-  address: 239 West Baker Street<br>Fort Wayne, IN 46802
-  phone: 260-747-4400
+  address: '239 West Baker Street<br>Fort Wayne, IN 46802'
+  phone: (260) 888-3390
   phone_type:
   phone2:
   phone2_type:
   email: careers@anthonyrealtors.com
-  url: http://www.fortwaynehomehub.com
-
+  url: 'http://www.fortwaynehomehub.com'
 lender:
   show_section: false
   header_text: Preferred Lender
-  headshot_path: http://fillmurray.com/200/200
+  headshot_path: 'http://fillmurray.com/200/200'
   logo_path: /img/logo.png
   logo_path_2:
   name: Bill Murray
   brand: Lender Co.
   phone: 555-555-5555
   email: bill@murray.com
-  url: http://eyegoop.com
-
+  url: 'http://eyegoop.com'
 socials:
   review_sm_icons: false
-  facebook_url: https://www.facebook.com/fortwaynerealestatemastermind
-  linkedin_url: https://www.linkedin.com/in/david-brough-a9770654/
+  facebook_url: 'https://www.facebook.com/fortwaynerealestatemastermind'
+  linkedin_url: 'https://www.linkedin.com/in/david-brough-a9770654/'
   gplus_url:
   youtube_url:
-  twitter_url: https://twitter.com/davidbrough
-  instagram_url: https://www.instagram.com/anthonyrealtors/
+  twitter_url: 'https://twitter.com/davidbrough'
+  instagram_url: 'https://www.instagram.com/anthonyrealtors/'
   pinterest_url:
   zillow_url:
   trulia_url:
   yelp_url:
   podcast_url:
-
 podcast:
   title: '-- MARKET -- Real Estate Podcast with -- CLIENT NAME --'
-  categories: Education
+  categories:
+    - Education
   image: /img/podcast.jpg
-  subtitle: 'Learn all the tips, tricks and more for buyers and sellers in the -- MARKET -- Area Real Estate Market'
-  description: 'If you are looking to buy or sell a home, get all the information and the latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional -- MARKET -- Real Estate Agents.'
-  keywords: 'Real Estate for sale, Real Estate agents, top real estate agents, local real estate agents, find a real estate agent, houses for sale in -- MARKET --, home selling tips, home for sale, home buying, home buying process, property finder, property search, property, real estate market, estate agent, realestate, real estate listings, buying a house, homes for sale, mls, home buyer'
+  subtitle: >-
+    Learn all the tips, tricks and more for buyers and sellers in the -- MARKET
+    -- Area Real Estate Market
+  description: >-
+    If you are looking to buy or sell a home, get all the information and the
+    latest updates, tips, and tricks from -- CLIENT BRAND -- - your professional
+    -- MARKET -- Real Estate Agents.
+  keywords: >-
+    Real Estate for sale, Real Estate agents, top real estate agents, local real
+    estate agents, find a real estate agent, houses for sale in -- MARKET --,
+    home selling tips, home for sale, home buying, home buying process, property
+    finder, property search, property, real estate market, estate agent,
+    realestate, real estate listings, buying a house, homes for sale, mls, home
+    buyer
   author: '-- CLIENT NAME --'
-
 images:
   client_headshot_path: /img/headshot.jpg
   hero_logo_path: /img/logo.png
   logo_width_number: 40
-  hero_text: -- MARKET -- Real Estate Video Blog
-  hero_background_hex: '#999'
+  hero_text: '-- MARKET -- Real Estate Video Blog'
+  hero_background_hex: '#999999'
   hero_image_path: /img/background.jpg
   post_cover: /img/cover.jpg
 site_colors:
@@ -78,22 +99,19 @@ site_colors:
   theme_text_color: '#5d9bd3'
   main_body_color: '#ffffff'
   main_body_text_color: '#353535'
-
 navbar_colors:
   border_bottom:
-
 header_shadow:
   h_shadow: 0px
   w_shadow: 2px
   shadow_spread: 7px
-  shadow_color: transparent
-
+  shadow_color: 'rgba(0, 0, 0, 0)'
 buttons:
   button_radius_number: 0
   button_padding_width_number: 10
   button_padding_height_number: 15
   button_border_color: '#ffffff'
-  button_background_color: transparent
+  button_background_color: 'rgba(0, 0, 0, 0)'
   button_text_color: '#123456'
   secondary_button_border_color: '#ffffff'
   secondary_button_background_color: 'rgba(0, 0, 0, 0)'
