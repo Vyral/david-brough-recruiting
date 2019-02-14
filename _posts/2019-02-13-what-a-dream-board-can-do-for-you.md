@@ -14,7 +14,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/vision-board-youtube.jpg
-youtube_code: 6PcUOH9f10w
+youtube_code: 40egKIiE8-w
 ---
 
 {% include youtube.html %}
