@@ -27,10 +27,10 @@ Our team has created an after-closing checklist to help us get the feedback we n
 
 A couple days after closing, our business manager will call the client and introduce herself to them. She’ll ask the client for a few moments of their time to answer some questions—she is not directly involved in their transaction, so there’s less pressure on the client when they give their responses. If they agree to do so, our manager will ask:
 
-* “How would you rate your overall experience with the Anthony Realtors?” If the answer is a nine or a 10, she’ll continue:
-* “Would you mind sharing a review about your experience online?” Clients usually say yes to this question, so she’ll explain how to do it, following up with an email that includes a link to make it really easy for them.
+* **“How would you rate your overall experience with the Anthony Realtors?”** If the answer is a nine or a 10, she’ll continue:
+* **“Would you mind sharing a review about your experience online?”** Clients usually say yes to this question, so she’ll explain how to do it, following up with an email that includes a link to make it really easy for them.
 
-If clients say that their experience rated below a nine or 10, our manager will apologize to client and ask how we missed the mark. This is where we get the real value, as this information will help us be able to turn around and put some changes in place to hopefully get nines or 10s from there on out.
+If clients say that their experience rated below a nine or 10, our manager will apologize to the client and ask how we missed the mark. This is where we get the real value, as this information will help us be able to turn around and put some changes in place to hopefully get nines or 10s from there on out.
 
 Actually, one of the last calls she made was to a client of mine who rated my service a seven out of 10. He was a first-time buyer who said the process was very confusing leading up to closing; our closing date had gotten pushed back three or four times, and the lender was saying one thing while we were saying something else.
 
@@ -38,7 +38,7 @@ Actually, one of the last calls she made was to a client of mine who rated my se
 
 It turns out that he just didn’t understand who to turn to. Our business manager sent him a $5 gift card to Starbucks for the honest answer, and I wrote the client a thank-you note the next day, thanking him for the helpful tip.&nbsp;
 
-Right after that call, my manager and I had a meeting and we made some tweaks to our checklist so that this would hopefully never happen again. We brought those changes to our next Monday morning meeting with the team, discussing exactly what had happened so that everyone else could be on board with the changes, as well.
+**Right after that call, my manager and I had a meeting and we made some tweaks to our checklist so that this would hopefully never happen again.** We brought those changes to our next Monday morning meeting with the team, discussing exactly what had happened so that everyone else could be on board with the changes, as well.
 
 We always want a five-star review, but we’re all just humans—we all make mistakes sometimes. With this system, if unforeseen complications arise in a transaction, we can get the necessary feedback from the clients so that we can immediately optimize our service for the future.&nbsp;
 
