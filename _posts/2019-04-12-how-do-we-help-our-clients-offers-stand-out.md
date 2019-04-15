@@ -19,9 +19,7 @@ youtube_code: 2OeVyMmL4TA
 
 {% include youtube.html %}
 
-We have a secret to getting our clients’ offers accepted when they’re competing against other buyers for great homes in this spring market, and we’re going to share it with you today.
-
-**It’s a buyer offer letter, or a one-page document prepared by your buyers that is sent in with your offer.** Sellers receive many offers in a hot market like this, but adding this letter to the fold increases the chances that the seller makes an emotional connection with you.&nbsp;
+I'd crop/tweak/combine the 1st 2 paragraphs: "When our homebuyers are competing against other buyers for great homes in this hot spring market, we have a secret that helps their offers stand out in the crowd: a buyer offer letter. **This one-page document prepared by your buyers is sent in with the offer.** Sellers receive many offers in a hot market like this, but adding this letter to the fold can establish an emotional connection with the seller, increasing the chances they'll accept your offer over others.
 
 {% include pullquote.html %}
 
