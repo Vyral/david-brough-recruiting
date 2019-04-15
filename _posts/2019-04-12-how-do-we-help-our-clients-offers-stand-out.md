@@ -19,7 +19,7 @@ youtube_code: 2OeVyMmL4TA
 
 {% include youtube.html %}
 
-I'd crop/tweak/combine the 1st 2 paragraphs: "When our homebuyers are competing against other buyers for great homes in this hot spring market, we have a secret that helps their offers stand out in the crowd: a buyer offer letter. **This one-page document prepared by your buyers is sent in with the offer.** Sellers receive many offers in a hot market like this, but adding this letter to the fold can establish an emotional connection with the seller, increasing the chances they'll accept your offer over others.
+When our homebuyers are competing against other buyers for great homes in this hot spring market, we have a secret that helps their offers stand out in the crowd: a buyer offer letter. **This one-page document prepared by your buyers is sent in with the offer.** Sellers receive many offers in a hot market like this, but adding this letter to the fold can establish an emotional connection with the seller, increasing the chances they'll accept your offer over others.
 
 {% include pullquote.html %}
 
