@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Refine Your Mindset & Skills to See Success
-date: 2019-05-14 15:50:27
+date: 2019-05-14 15:50:00
 tags:
   - Transaction Management
 excerpt: >-
