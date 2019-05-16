@@ -25,15 +25,15 @@ As a real estate professional, there are two key drivers of your success: **your
 
 Energy is instrumental to your success not just in real estate, but in sales as a whole. Think of your energy as a tie-in to your mindset, which governs how you feel about certain situations, how you’ll respond to clients, the urgency with which you act in your business, your proactivity to pick up the phone, etc. In a nutshell, your mindset emanates through every facet of your life and is very important.&nbsp;
 
-**Getting into a mindset conducive to success starts with your morning routine.** In studying some of the most successful people, I’ve discovered a common theme: All of these kick their day off with a morning workout. I’ve made this part of my morning routine, and I recommend that you do the same. &nbsp;&nbsp;
+**Getting into a mindset conducive to success starts with your morning routine.** In studying some of the most successful people, I’ve discovered a common theme: All of them kick their day off with a morning workout. I’ve made this part of my morning routine, and I recommend that you do the same. &nbsp;&nbsp;
 
 {% include pullquote.html %}
 
-**Another way to shield your mindset from negative influence is to stay away from the news.** Our news is often framed in such a way that it’s economically-driven and entirely based around sensationalism for ratings’ sake. If you’re someone who watches the news night in and night out, my advice is to kick this habit. You’ll likely find that your mindset is better served without it.&nbsp;
+**Another way to shield your mindset from negative influences is to stay away from the news.** Our news is often framed in such a way that it’s economically-driven and entirely based around sensationalism for ratings’ sake. If you’re someone who watches the news night in and night out, my advice is to kick this habit. You’ll likely find that your mindset is better served without it.&nbsp;
 
 Thirdly, if this isn’t something you already do, **consider introducing healthier eating options into your life.** If you’re anything like me, this can be a challenge at times, but plainly put, the way you eat directly affects the way you feel.&nbsp;
 
-It’s no secret that skills are important in any field, but **we, as real estate professionals, need to train and sharpen our skills on a daily basis**—just as professional athletes do. That’s accomplished by roleplaying, paying close attention to the habits of other successful people, and making our skills a central part of our business.&nbsp;
+It’s no secret that skills are important in any field, but **we, as real estate professionals, need to train and sharpen our skills on a daily basis**—just as professional athletes do. That’s accomplished by role-playing, paying close attention to the habits of other successful people, and making our skills a central part of our business.&nbsp;
 
 **When our mindset and our skills are in place, there’s no telling how much financial success can be achieved in real estate.** If you have any questions about today’s topic or anything else related to real estate, please reach out to me.&nbsp;
 
