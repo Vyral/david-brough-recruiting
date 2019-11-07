@@ -14,7 +14,7 @@ permalink: /agent-launch/
 
 &nbsp;
 
-I’m excited today because I’m going to walk you through how we onboard agents onto our team here at Anthony Realtors.
+I’m excited today because I’m going to walk you through how we onboard agents onto our team here at Anthony REALTORS.
 
 **Our onboarding consists of a six-week program that covers every single thing that you need to know in the real estate industry.**&nbsp;When you take classes to get your real estate license you’ll learn about license law but you don’t necessarily learn how to sell a house. We designed our onboarding to pick up where these classes leave off.
 
