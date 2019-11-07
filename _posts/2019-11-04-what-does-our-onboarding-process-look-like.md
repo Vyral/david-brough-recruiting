@@ -10,8 +10,8 @@ pullquote: Our onboarding picks up where licensing classes leave off.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
-youtube_alternate_image: /uploads/on-board-new-agents-rec-youtube.jpg
-youtube_code: xkADzgELckE
+youtube_alternate_image: /uploads/onboarding-rec-youtube.jpg
+youtube_code: r3tc4oh4K40
 ---
 
 {% include youtube.html %}
