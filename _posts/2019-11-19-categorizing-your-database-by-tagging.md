@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Categorizing Your Database By Tagging
-date: 2019-11-19 22:58:03
+date: 2019-11-19 22:58:00
 tags:
   - Lead Generation
   - Lead Conversion
@@ -18,12 +18,12 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/tag-contacts-youtube.jpg
-youtube_code: YI8sGGnYIFo
+youtube_code: 8GQuM3ADqPo
 ---
 
 {% include youtube.html %}
 
-Whether you have a small or large database, a great way to categorize it is a method my team and me use: tagging.
+Whether you have a small or large database, a great way to categorize it is a method my team and I use: tagging.
 
 **Tagging is a basic function of a CRM.** We have between 9,000 and 10,000 people in our database, and we use the letter-grading system to tag them: A, B, C, D, and F.&nbsp;
 
