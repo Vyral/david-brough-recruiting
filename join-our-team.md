@@ -6,7 +6,7 @@ permalink: /join-our-team/
 
 <div class="recruiting-page">
 <h1 class="join-us">Join One of the Fastest Growing Real Estate Teams in {{site.data.settings.client.market}}</h1>
-<h5 class="join-us-subtitle">How would your life change if you consistently earned $60,000, $75,000, $100,000 or more as a full-time real estate agent?</h5>
+<h5 class="join-us-subtitle">How would your life change if you consistently earned $50,000, $75,000, $100,000 or more as a full-time real estate agent?</h5>
 <div class="recruiting-photo">
 <span class="client-image-container">
 <img src="/img/headshot.jpg" alt="{{site.data.settings.client.name}}" class="client-image"/>
@@ -35,7 +35,7 @@ permalink: /join-our-team/
 
 <p>Our team members never have to wake up feeling uncertain about what they need to do next to stay successful. I make sure of this, because I act as a personal mentor to our team members. For the right person, the training, mentorship, leads, and resources I can offer will lead to the career (and the income) you have always wanted.</p>
 
-<p>In fact, <strong>I guarantee that agents who follow our team’s blueprint for success will earn $60,000 in their first year with us.</strong> I believe so strongly in this that if you stick to our systems and don’t achieve that amount, I will make up the difference myself. But you must be ready to embrace our guidance.</p>
+<p>In fact, <strong>I guarantee that agents who follow our team’s blueprint for success will earn $50,000 in their first year with us.</strong> I believe so strongly in this that if you stick to our systems and don’t achieve that amount, I will make up the difference myself. But you must be ready to embrace our guidance.</p>
 
 <p>No other team in the area has the lead generation and follow-up systems we do, and this makes it easy for our agents to succeed—if they’ve got the drive to do so. Nearly every aspect of the way we operate is unique from what you’ll find at other brokerages. Our custom property search website, for example, is so nice that other area agents direct their own clients to it.</p>
 
