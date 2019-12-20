@@ -1,7 +1,7 @@
 ---
 layout: post
 title: What Are Your Core Values in Real Estate?
-date: 2019-12-19 20:41:18
+date: 2019-12-19 20:41:00
 tags:
   - Transaction Management
 excerpt: >-
@@ -34,7 +34,7 @@ At Anthony REALTORS, our core values are:
 * God above all
 * Commitment
 * Respect
-* Follow through
+* Follow-Through
 * Improvement
 * Servant hearts
 
