@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Now’s Not the Time to Be Slacking
-date:
+date: 2020-04-09 19:37:37
 tags:
   - Buyer Prospects
   - Lead Conversion
