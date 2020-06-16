@@ -1,12 +1,13 @@
 ---
 layout: post
 title: Introducing Holly Herman
-date: 2020-06-16 21:42:33
+date: 2020-06-16 21:42:00
 tags:
   - Reviews and Referrals
   - Transaction Management
 excerpt: Here’s what one of our newest agents has to say about working on our team.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/David+Brough/Videos/Introducing+Holly+Herman.mp4
 pullquote:
 enclosure_type: video/mp4
 enclosure_time:
