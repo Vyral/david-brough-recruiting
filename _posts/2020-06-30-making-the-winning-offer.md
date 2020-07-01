@@ -1,7 +1,7 @@
 ---
 layout: post
 title: Making the Winning Offer
-date: 2020-06-30 19:23:47
+date: 2020-06-30 19:23:00
 tags:
   - Lead Conversion
   - Transaction Management
@@ -9,8 +9,8 @@ excerpt: Here’s how to help your client win a bidding war in today’s market.
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/David+Brough/Videos/Making+the+Winning+Offer.mp4
 pullquote: >-
-  If you stay positive, though, the majority of the time things will work out
-  for you and your client.
+  If you stay positive, the majority of the time things will work out for you
+  and your client.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
@@ -22,7 +22,7 @@ youtube_code: ssPNzEKLNeo
 
 How do you win a home for your client when competing against many other offers?&nbsp;
 
-There’s still not a lot of inventory in our market—fewer homes are being listed now than there were at this time last year. Shrinking inventory makes things very challenging when you’re trying to help your client purchase a home and there are four or five others trying to purchase the same home.&nbsp;
+There’s still not a lot of inventory in our market—fewer homes are being listed now than at this time last year. Shrinking inventory makes things very challenging when you’re trying to help your client purchase a home and there are four or five others trying to purchase the same home.&nbsp;
 
 **At Anthony Realtors, we’ve been coaching our clients on what to expect when they find a house they want to purchase.** We also talk about their finances. If they’re making a 10% down payment, for instance, we advise them to offer less down so they have cash available if there’s an appraisal or inspection issue.&nbsp;
 
