@@ -15,7 +15,7 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/winning-offer-youtube.jpg
-youtube_code: ssPNzEKLNeo
+youtube_code: 0YxZ21a8Q-c
 ---
 
 {% include youtube.html %}
