@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Q: What Are the Top 3 Reasons We Pre-Qualify Potential Clients?'
-date: 2020-08-21 20:08:42
+date: 2020-08-21 20:08:00
 tags:
   - Buyer Prospects
   - Lead Conversion
   - Transaction Management
 excerpt: Here’s why I recommend that you pre-qualify your potential clients.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/David+Brough/Videos/Q-+What+Are+the+Top+3+Reasons+We+Pre-Qualify+Potential+Clients_.mp4
 pullquote: >-
   Gathering information about your potential client ahead of time will set you
   apart as a true professional rather than a salesperson.
