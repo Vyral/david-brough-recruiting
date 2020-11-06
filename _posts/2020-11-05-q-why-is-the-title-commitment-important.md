@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 'Q: Why Is the Title Commitment Important?'
-date: 2020-11-05 20:05:19
+date: 2020-11-05 20:05:00
 tags:
   - Reviews and Referrals
   - Transaction Management
@@ -22,7 +22,7 @@ Fellow real estate agents: How often do you read the title commitment, the docum
 
 The title commitment is just **a guarantee stating that the title company will insure the property after closing if certain criteria are met.** They’ll look to see if there are any liens, HOA fees, or judgments filed on the property.
 
-Even right now, I have a transaction pending. The seller’s home was valued at $115,000 and there were $200,000 or $300,000 worth of tax judgments on it from a previous owner. Had we not caught this, we could have gone to closing, which would have made for a huge mess.
+Even right now, I have a transaction pending. The seller’s home was valued at $115,000 but there was $200,000 or $300,000 worth of tax judgments on it from a previous owner. Had we not caught this, we could have gone to closing, which would have made for a huge mess.
 
 {% include pullquote.html %}
 
