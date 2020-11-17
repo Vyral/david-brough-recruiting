@@ -1,13 +1,14 @@
 ---
 layout: post
 title: Dealing With Clients Who Have Reservations
-date: 2020-11-17 22:45:09
+date: 2020-11-17 22:45:00
 tags:
   - Transaction Management
 excerpt: >-
   Here are some points to address with clients who have reservations about the
   market.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/David+Brough/Videos/Dealing+With+Clients+Who+Have+Reservations.mp4
 pullquote: >-
   No matter who is in office or what happens with the government, owning real
   estate is one of the best ways to build wealth.
