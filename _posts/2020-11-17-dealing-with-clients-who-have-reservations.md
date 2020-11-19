@@ -23,7 +23,7 @@ youtube_code: d0B7H_HNR0c
 
 There has been a lot of negativity in the news regarding the economy, and most people’s frame of reference includes the Great Recession we had back in 2008. That crisis was caused by the housing market, but today’s issues are very different.
 
-Here’s a relevant statistic: almost 60% of homeowners have at least 60% equity in their properties, and just over 42% of all homes nationwide are mortgage-free, meaning they’re owned free and clear. The average amount of equity in homes across America is $177,000.
+Here’s a relevant statistic: Almost 60% of homeowners have at least 60% equity in their properties, and just over 42% of all homes nationwide are mortgage-free, meaning they’re owned free and clear. The average amount of equity in homes across America is $177,000.
 
 {% include pullquote.html %}
 
