@@ -11,8 +11,8 @@ pullquote: >-
   without booking any solid appointments.
 enclosure_type: video/mp4
 enclosure_time:
-use_youtube_image: true
-youtube_alternate_image:
+use_youtube_image: false
+youtube_alternate_image: /uploads/greatest-prospector-yt.jpg
 youtube_code: INMbD8QXpLA
 ---
 
