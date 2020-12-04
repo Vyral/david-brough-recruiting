@@ -1,7 +1,7 @@
 ---
 layout: post
 title: The Ultimate Prospector—Not Who You Might Think
-date: 2020-12-04 19:47:24
+date: 2020-12-04 19:47:00
 tags:
   - Buyer Prospects
 excerpt: Here’s why my dog is the best prospector I know.
