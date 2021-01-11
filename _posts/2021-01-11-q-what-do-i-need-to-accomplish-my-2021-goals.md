@@ -1,13 +1,14 @@
 ---
 layout: post
 title: 'Q: What Do I Need to Accomplish My 2021 Goals?'
-date: 2021-01-11 19:30:08
+date: 2021-01-11 19:30:00
 tags:
   - Transaction Management
   - Reviews and Referrals
   - Buyer Prospects
 excerpt: 'In order to accomplish your business goals for 2021, you’ll need two things.'
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/David+Brough/Videos/Q_+What+Do+I+Need+to+Accomplish+My+2021+Goals_.mp4
 pullquote: Don’t just say that you’re going to do something; do it.
 enclosure_type: video/mp4
 enclosure_time:
