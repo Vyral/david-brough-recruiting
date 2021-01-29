@@ -1,7 +1,7 @@
 ---
 layout: post
 title: 3 Lead Generation Tips to Fill Your Day
-date: 2021-01-27 22:05:25
+date: 2021-01-27 22:05:00
 tags:
   - Lead Generation
 excerpt: Here are some lead generation activities you might not have thought of.
@@ -14,14 +14,14 @@ enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: false
 youtube_alternate_image: /uploads/3-tips-yt.jpg
-youtube_code: kiC-kbzlSdE
+youtube_code: e2ltZuvXU8s
 ---
 
 {% include youtube.html %}
 
 If you run out of lead generation activities for the day but still feel productive, here are three things you can do to stay productive and keep building your business:
 
-**1\. Send a CMA to people you know who aren’t selling their home.** This will provide people in your CMA with valuable information and confirm you as a trusted resource.
+**1\. Send a CMA to people you know who aren’t selling their homes.** This will provide people in your CMA with valuable information and confirm you as a trusted resource.
 
 **2\. Reach out to a buyer client from last year.** See how they’re doing\! If they’ve had issues with their home recently, see if you can connect them with a good service provider.&nbsp;
 
