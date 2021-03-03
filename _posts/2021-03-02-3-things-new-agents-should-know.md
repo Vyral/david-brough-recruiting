@@ -8,6 +8,7 @@ excerpt: There are three things that I believe every new real estate agent shoul
 enclosure: >-
   https://vyralmarketing.s3.amazonaws.com/David+Brough/Videos/3+Things+Every+New+Agent+Should+Know.mp4
 pullquote: >-
+  You’ll need to put a lot of work in, and that will take time.
 enclosure_type: video/mp4
 enclosure_time:
 use_youtube_image: true
@@ -20,6 +21,8 @@ youtube_code: 2zS54Mz7ZbY
 I’ve been in this business for about 10 years now, and in that time, I’ve learned many things. Today I want to share a few things that aspiring and new real estate agents should know that will help you right away:
 
 **1\. You have to talk to a lot of people, including calling and texting them.** There’s no way around this; you won’t suddenly stumble across a bunch of killer leads without communicating with people. The sooner you come to terms with this and embrace it, the faster your career will launch.
+
+{% include pullquote.html %}
 
 **2\. It’s going to take time.** If you’re just getting started in the industry, don’t think that because you’ve done this for three months and you haven’t had a deal yet that you need to give up. I honestly wouldn’t even start tracking your success until after your first year. To make it in this business, you’ll need to put a lot of work in, and that will take time. There’s a lot of responsibility involved with trying to get a consumer to trust you with one of the biggest purchases or sales of their entire life. There’s also a lot of competition in the way of other agents, so just trust the process and respect the fact that it takes time to hone your skills and nurture leads.
 
