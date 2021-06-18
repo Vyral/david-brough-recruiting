@@ -5,7 +5,8 @@ date: 2021-06-18 16:01:00
 tags:
   - Lead Generation
 excerpt: Sending homeowners in your database a CMA will get you more listings.
-enclosure:
+enclosure: >-
+  https://vyralmarketing.s3.amazonaws.com/David+Brough/Videos/How+This+Technique+Can+Win+You+More+Listings.mp4
 pullquote: This is a long-term play.
 enclosure_type: video/mp4
 enclosure_time:
